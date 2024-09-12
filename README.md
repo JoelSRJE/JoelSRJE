@@ -9,6 +9,7 @@
 
 <h1 align="center">Hi 👋,  I'm Joel J-E</h1> 
 <h3 align="center">Somewhat of a frontend developer from Växjö, Sweden</h3>
+<h3 align="center">Building a portfolio site on and off..</h3>
 <br/>
 <br/>
 
