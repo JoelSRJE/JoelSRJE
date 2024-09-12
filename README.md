@@ -32,7 +32,8 @@
 </div>
 <br/>
 <div align="center">
-  📫 If you wanna get in touch 🡪 **JoelSRJE@hotmail.com** <br/>
+  📫 If you wanna get in touch 🡪 <Strong>JoelSRJE@hotmail.com</Strong>
+  
   <br/>
   ⚡ Fun fact: My rubber duck is a Welsh Corgi Pembroke who's tired of me talking by now
 </div>
