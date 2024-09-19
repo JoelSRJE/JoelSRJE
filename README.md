@@ -16,13 +16,10 @@
 
 
 <div align="center">
-
-  🌱 I'm currently studying **Frontend Development** at [EC](https://ecutbildning.se) <br/>
-  🔭 Trying out problem solving at codewars from time to time
+  
+  🔭 Trying out problem solving at codewars from time to time <br/>
+  🌱 I'm currently studying **Frontend Development** at [EC](https://ecutbildning.se) 
  
-</div>
-
-## 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
@@ -31,6 +28,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+</div>
+
+
 <br/>
 <div align="center">
   📫 If you wanna get in touch 🡪 <Strong>JoelSRJE@hotmail.com</Strong>
@@ -39,9 +39,9 @@
   ⚡ Fun fact: My rubber duck is a Welsh Corgi Pembroke who's tired of me talking by now
 </div>
 
-
 ---
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoelSRJE&theme=nightowl" alt="nyman556" /></div>
+<div align="center"><img src="https://streak-stats.demolab.com?user=JoelSRJE&theme=vue-dark" alt="JoelSRJE" /></div>
+
  
 <!--
 **JoelSRJE/JoelSRJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
