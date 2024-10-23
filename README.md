@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋,  I'm Joel J-E</h1> 
+<h1 align="center">Hi,  I'm Joel J-E</h1> 
 <h3 align="center">Somewhat of a frontend developer from Växjö, Sweden</h3>
 <h3 align="center">Building a portfolio site on and off..</h3>
 <br/>
@@ -37,7 +37,7 @@
   📫 If you wanna get in touch 🡪 <Strong>JoelSRJE@hotmail.com</Strong>
   
   <br/>
-  ⚡ Fun fact: My rubber duck is a Welsh Corgi Pembroke who's tired of me talking by now
+  ⚡ Fun fact: My rubber duck is a Welsh Corgi Pembroke who's tired of me by now
 </div>
 
 ---
