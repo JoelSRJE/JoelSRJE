@@ -16,8 +16,9 @@
 
 <div align="center">
   
-  🔭 Trying out problem solving at codewars from time to time <br/>
-  🤔 I'm currently looking for work in Växjö or remote
+  🔭 Problem solving at codewars from time to time <br/>
+  🤔 I'm currently looking for work in Växjö or remote <br/>
+  Currently reading Spring in Action, Sixth Edition
  
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
