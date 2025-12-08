@@ -43,7 +43,7 @@
 </div>
 
 ---
-<div align="center"><img src="https://streak-stats.demolab.com?user=JoelSRJE&theme=vue-dark" alt="JoelSRJE" /></div>
+<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoelSRJE&theme=whatsapp-dark2&border_radius=5" alt="GitHub Streak" /></a></div>
 
  
 <!--
