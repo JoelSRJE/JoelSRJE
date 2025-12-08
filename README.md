@@ -43,8 +43,12 @@
 </div>
 
 ---
-<div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JoelSRJE&theme=whatsapp-dark2&border_radius=5" alt="GitHub Streak" /></a></div>
-
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=JoelSRJE&theme=whatsapp-dark2&border_radius=5"
+    alt="GitHub Streak"
+  />
+</p>
  
 <!--
 **JoelSRJE/JoelSRJE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
